@@ -2,7 +2,7 @@
 
 <h2>How to setup SpaceXCTF</h2>
 
-First of all download apache web server and then install it (WAMP/XAMPP for windows, Lamp for Linux).
+First of all download the apache web server and then install it (WAMP/XAMPP for windows, Lamp for Linux).
 If you install "WAMP" for windows OS, there is a file in C:drive named "WAMP". There is a folder named "www" in this file. Then place your web app ("SpaceXCTF" folder of the downloaded zip) to the "www" folder. After that start the "WAMP" server after clicking. At this time you can see a WAMP server green colour icon in the right side of the start bar.
 
 If you install "XAMPP" for windows OS there is a file in C:drive named "XAMPP". There is a folder named "htdocs" in this file. Then place your web app into this folder. Next go to "XAMPP" Control Panal and start Apache web server and MySQL.
