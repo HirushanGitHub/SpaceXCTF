@@ -1,6 +1,6 @@
-<h6> SpaceXCTF </h6>
+<h1> SpaceXCTF </h1>
 
-<h5>How to setup SpaceXCTF</h5>
+<h2>How to setup SpaceXCTF</h2>
 
 First of all download apache wed server and then install it (WAMP/XAMPP for windows, Lamp for Linux).
 If you install "WAMP" for windows OS, there is a file in C:drive named "WAMP". There is a folder named "www" in this file. Then place your web app ("SpaceXCTF" folder of the downloaded zip) to the "www" folder. After that start the "WAMP" server after clicking. At this time you can see a WAMP server green colour icon in the right side of the start bar.
